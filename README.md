@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wz6bN2CojWyl_L1hQ7ibPZjeMjEG46VD/view?usp=share_link)
 
-- ⚡ Fun fact --> **Finding Peace is easy!**
+- ⚡ Fun fact **Finding Peace is easy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
