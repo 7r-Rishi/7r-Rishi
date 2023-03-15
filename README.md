@@ -3,12 +3,14 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
 <p align="left"><a href="https://twitter.com/" target="blank">
 	
-<div align="center">	<img align="center" src="https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg" alt="spring"  width="800" height="400">	</div>
+<div align="center">
+	<img align="center" src="https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg" alt="spring"  width="800" height="400">	
+</div>
 
 
 - 🔭 I’m currently perceiving **Full Stack Web Development Course At Masai School**
+	
 - 🌱 I’m currently learning **Java, SpringBoot, MySQL, HTML, CSS, JavaScript**
-
 
 - 💬 Ask me about **Java, SpringBoot, JavaScript, Stock Market, Football & Gaming**
 
@@ -42,9 +44,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-<!-- <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=7r-rishi&show_icons=true&locale=en&layout=compact" alt="7r-rishi" /</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7r-rishi&show_icons=true&locale=en" alt="7r-rishi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7r-rishi&" alt="7r-rishi" /></p> -->
+	<!-- <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=7r-rishi&show_icons=true&locale=en&layout=compact" alt="7r-rishi" /</p>
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7r-rishi&show_icons=true&locale=en" alt="7r-rishi" /></p>
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7r-rishi&" alt="7r-rishi" /></p> -->
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7r-Rishi&layout=compact&theme=chartreuse-dark&hide_border=true)
  
