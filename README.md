@@ -4,7 +4,7 @@
 <p align="left"><a href="https://twitter.com/" target="blank">
 	
 <div align="center">
-	<img align="center" src="https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg" alt="spring"  width="800" height="400">	
+	<img align="center" src="https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg" alt="spring"  width="700" height="300">	
 </div>
 
 
