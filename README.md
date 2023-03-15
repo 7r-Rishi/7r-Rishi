@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hrishikesh Sawant</h1>
+<h1 align="center">Hi, I'm Hrishikesh Sawant</h1>
 <h3 align="center">A Backed Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
+<p align="left"><a href="https://twitter.com/" target="blank">
+	
+<div align="center">	<img align="center" src="https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg" alt="spring"  width="800" height="400">	</div>
+
 
 - 🔭 I’m currently perceiving **Full Stack Web Development Course At Masai School**
-
 - 🌱 I’m currently learning **Java, SpringBoot, MySQL, HTML, CSS, JavaScript**
+
 
 - 💬 Ask me about **Java, SpringBoot, JavaScript, Stock Market, Football & Gaming**
 
