@@ -2,6 +2,7 @@
 <h3 align="center">A Backed Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently perceiving **Full Stack Web Development Course At Masai School**
 
 - 🌱 I’m currently learning **Java, SpringBoot, MySQL, HTML, CSS, JavaScript**
