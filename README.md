@@ -42,6 +42,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7r-Rishi&layout=compact&theme=chartreuse-dark&hide_border=true)
  
  ![GitHub Streak](https://streak-stats.demolab.com?user=7r-Rishi&theme=chartreuse-dark&hide_border=true)
+ 
  ![Hrishikesh Sawant's GitHub stats](https://github-readme-stats.vercel.app/api?username=7r-Rishi&show_icons=true&theme=chartreuse-dark&hide_border=true) 
  
 </div>
