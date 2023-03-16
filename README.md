@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, JavaScript, Stock Market, Football & Gaming**
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+- 👨‍💻 All of my projects are available at [Portfolio](https://7r-rishi.github.io/)
  
 - 📫 How to reach me **7r.rushi@gmail.com**
 
