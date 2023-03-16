@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently perceiving **Full Stack Web Development Course At Masai School**
 	
-- 🌱 I’m currently learning **Java, SpringBoot, MySQL, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Java, SpringBoot, MySQL**
 
 - 💬 Ask me about **Java, SpringBoot, JavaScript, Stock Market, Football & Gaming**
 
