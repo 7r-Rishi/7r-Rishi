@@ -8,7 +8,7 @@
 </div>
 
 
-- 🔭 I’m currently perceiving **Full Stack Web Development Course At Masai School**
+- 🔭 I’m currently perceiving **Java**
 	
 - 🌱 I’m currently learning **Java, SpringBoot, MySQL**
 
