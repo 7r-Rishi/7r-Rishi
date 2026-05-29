@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style = "margin-left:5px;">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"  /> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -53,7 +53,6 @@
  ![GitHub Streak](https://streak-stats.demolab.com?user=7r-Rishi&theme=chartreuse-dark&hide_border=true)
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7r-Rishi&theme=chartreuse-dark)](https://git.io/streak-stats)
- 
- ![Hrishikesh Sawant's GitHub stats](<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=7r-Rishi&theme=dark" alt="GitHub Streak" /></a>) 
+
  
 </div>
