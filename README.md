@@ -52,6 +52,8 @@
  
  ![GitHub Streak](https://streak-stats.demolab.com?user=7r-Rishi&theme=chartreuse-dark&hide_border=true)
  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7r-Rishi&theme=chartreuse-dark)](https://git.io/streak-stats)
+ 
  ![Hrishikesh Sawant's GitHub stats](<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=7r-Rishi&theme=dark" alt="GitHub Streak" /></a>) 
  
 </div>
